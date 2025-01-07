@@ -18,6 +18,8 @@ export default function ZoomableImage({
           className="w-full h-48 object-cover"
           width="400"
           height="300"
+          loading="lazy"
+          decoding="async"
         />
       </DialogTrigger>
       <DialogContent className="max-w-7xl border-0 bg-transparent p-0">
@@ -32,6 +34,8 @@ export default function ZoomableImage({
             }}
             width={500}
             height={100}
+            loading="lazy"
+            decoding="async"
           />
         </div>
       </DialogContent>
