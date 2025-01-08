@@ -5,9 +5,10 @@ const { item } = Astro.props
 ---
 
 <div
+  transition:name={'fade'}
   class="flex flex-col items-center bg-gradient-to-b from-blue-50 to-white px-6 py-8 sm:px-8 sm:py-12 lg:px-16 lg:py-20"
 >
-  <h1 class="text-3xl sm:text-4xl lg:text-5xl font-semibold text-gray-800 mb-4">
+  <h1 class="text-3xl sm:text-4xl lg:text-5xl font-semibold text-red-400 mb-4">
     {item.data.name}
   </h1>
   <p
@@ -21,7 +22,8 @@ const { item } = Astro.props
     alt={`Image ${item.data.name} `}
     width={720}
     height={400}
-    class="rounded object-contain"
+    class="object-contain rounded-xl"
+    aria-placeholder={`Image ${item.data.name} `}
   />
 
   <p class="text-center mt-6 text-2xl">

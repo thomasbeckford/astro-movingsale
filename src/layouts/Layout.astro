@@ -1,4 +1,6 @@
 ---
+import { ClientRouter } from 'astro:transitions'
+
 import '@/styles/globals.css'
 ---
 
@@ -10,6 +12,7 @@ import '@/styles/globals.css'
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>Moving Sale - Household Items</title>
+    <ClientRouter />
   </head>
   <body>
     <slot />

@@ -388,5 +388,14 @@
     "image": "/items/tv_abajo.jpeg",
     "enabled": true,
     "owner": ""
+  },
+  {
+    "id": 48,
+    "name": "Veladores x2",
+    "price": 15000,
+    "description": "",
+    "image": "/items/veladores.jpeg",
+    "enabled": true,
+    "owner": ""
   }
 ]
