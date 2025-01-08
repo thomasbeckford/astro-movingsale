@@ -1,0 +1,43 @@
+---
+import { getCollection } from 'astro:content'
+import { Image } from 'astro:assets'
+import { fade } from 'astro:transitions'
+
+const items = await getCollection('items')
+const enabledItems = items.filter((item) => item.data.enabled)
+---
+
+<div
+  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
+>
+  {
+    enabledItems.map((item) => (
+      <a
+        href={`/${item.id}`}
+        class="group transition-all mb-4 block"
+        transition:animate={fade({ duration: '0.4s' })}
+      >
+        <Image
+          src={item.data.image}
+          alt={item.data.name}
+          format="avif"
+          width={720}
+          height={720}
+          quality="mid"
+          class:list={[
+            'rounded-lg transition-all',
+            'group-hover:shadow-lg group-hover:opacity-90',
+            'h-[300px] object-cover object-center',
+          ]}
+        />
+        <div class="mt-4 text-center text-neutral-700">
+          <strong class="font-normal text-red-400">{item.data.name}</strong>
+          <p class="text-sm text-neutral-500">{item.data.description}</p>
+          <p class="mt-2 text-sm font-bold text-neutral-800">
+            ${(item.data.price / 1000).toFixed(3)}
+          </p>
+        </div>
+      </a>
+    ))
+  }
+</div>

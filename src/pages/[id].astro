@@ -1,0 +1,26 @@
+---
+import { Image } from 'astro:assets'
+import { getCollection } from 'astro:content'
+import ItemDetail from '@/components/ItemDetail.astro'
+
+export async function getStaticPaths() {
+  const items = await getCollection('items')
+
+  const paths = Object.values(items).map((item) => {
+    return {
+      params: {
+        id: item.id,
+      },
+      props: {
+        item,
+      },
+    }
+  })
+
+  return paths
+}
+
+const { item } = Astro.props
+---
+
+<ItemDetail item={item} />
