@@ -8,6 +8,8 @@ const items = defineCollection({
     price: z.number(),
     description: z.string().nullable(),
     image: z.string(),
+    enabled: z.boolean(),
+    owner: z.string().nullable(),
   }),
 })
 
