@@ -4,7 +4,7 @@
     "name": "Sommier & colchon",
     "price": 400000,
     "description": "160x190 Marca Stearns & Foster",
-    "image": "/src/assets/items/sommier_colchon.jpeg",
+    "image": "../src/assets/items/sommier_colchon.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -13,7 +13,7 @@
     "name": "Mesas de luz",
     "price": 250000,
     "description": "Woodmarket",
-    "image": "/src/assets/items/mesa_de_luz.jpeg",
+    "image": "../src/assets/items/mesa_de_luz.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -22,7 +22,7 @@
     "name": "Comoda",
     "price": 500000,
     "description": "Woodmarket",
-    "image": "/src/assets/items/comoda.jpeg",
+    "image": "../src/assets/items/comoda.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -31,7 +31,7 @@
     "name": "Respaldo cama",
     "price": 80000,
     "description": "Woodmarket 1.70",
-    "image": "/src/assets/items/respaldo.jpeg",
+    "image": "../src/assets/items/respaldo.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -40,7 +40,7 @@
     "name": "Tele cuarto",
     "price": 625000,
     "description": "Samsung UN65AU7GCZB 65 pulgadas",
-    "image": "/src/assets/items/tele_cuarto.jpeg",
+    "image": "../src/assets/items/tele_cuarto.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -50,7 +50,7 @@
     "name": "Cajonera zapatos",
     "price": 20000,
     "description": "",
-    "image": "/src/assets/items/zapatero.jpeg",
+    "image": "../src/assets/items/zapatero.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -60,7 +60,7 @@
     "name": "Escritorio Luli",
     "price": 100000,
     "description": null,
-    "image": "/src/assets/items/escritorio_luli.jpeg",
+    "image": "../src/assets/items/escritorio_luli.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -69,7 +69,7 @@
     "name": "Escritorio Tomi",
     "price": 150000,
     "description": "A2 Wood design",
-    "image": "/src/assets/items/escritorio_tom.jpeg",
+    "image": "../src/assets/items/escritorio_tom.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -78,7 +78,7 @@
     "name": "Silla gamer",
     "price": 20000,
     "description": "DX Racer",
-    "image": "/src/assets/items/silla_gamer.jpeg",
+    "image": "../src/assets/items/silla_gamer.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -87,7 +87,7 @@
     "name": "Monitores Dell x 2 + soporte",
     "price": 800000,
     "description": "Dell Ultrasharp U2415",
-    "image": "/src/assets/items/monitor.jpeg",
+    "image": "../src/assets/items/monitor.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -96,7 +96,7 @@
     "name": "Cinta caminar",
     "price": 800000,
     "description": "",
-    "image": "/src/assets/items/cinta.jpeg",
+    "image": "../src/assets/items/cinta.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -105,7 +105,7 @@
     "name": "Bici fija",
     "price": 250000,
     "description": "Randers",
-    "image": "/src/assets/items/bicicleta.jpeg",
+    "image": "../src/assets/items/bicicleta.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero"
   },
@@ -114,7 +114,7 @@
     "name": "Banco plano + pesas",
     "price": 100000,
     "description": null,
-    "image": "/src/assets/items/banco_pesas.jpeg",
+    "image": "../src/assets/items/banco_pesas.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero"
   },
@@ -123,7 +123,7 @@
     "name": "Sillon gris",
     "price": 460000,
     "description": "El postigo",
-    "image": "/src/assets/items/sillon.jpeg",
+    "image": "../src/assets/items/sillon.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -132,7 +132,7 @@
     "name": "Materas x 2",
     "price": 246000,
     "description": "El postigo",
-    "image": "/src/assets/items/materas.jpeg",
+    "image": "../src/assets/items/materas.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -141,7 +141,7 @@
     "name": "Mesa ratona",
     "price": 20000,
     "description": "Nebula",
-    "image": "/src/assets/items/mesa_ratona.jpeg",
+    "image": "../src/assets/items/mesa_ratona.jpeg",
     "enabled": false,
     "owner": "Federico Magariños"
   },
@@ -150,7 +150,7 @@
     "name": "Mesa comedor",
     "price": 350000,
     "description": "Cuadrada 1x1, el postigo",
-    "image": "/src/assets/items/mesa_comedor.jpeg",
+    "image": "../src/assets/items/mesa_comedor.jpeg",
     "enabled": false,
     "owner": "Federico Magariños"
   },
@@ -159,7 +159,7 @@
     "name": "4 sillas comedor",
     "price": 400000,
     "description": "El postigo, necesita retapizar",
-    "image": "/src/assets/items/sillas.jpeg",
+    "image": "../src/assets/items/sillas.jpeg",
     "enabled": false,
     "owner": "Federico Magariños"
   },
@@ -168,7 +168,7 @@
     "name": "Silla negra x2",
     "price": 40000,
     "description": null,
-    "image": "/src/assets/items/silla.jpeg",
+    "image": "../src/assets/items/silla.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero"
   },
@@ -177,7 +177,7 @@
     "name": "Mesa madera exterior con 3 sillas",
     "price": 80000,
     "description": null,
-    "image": "/src/assets/items/mesa_afuera.jpeg",
+    "image": "../src/assets/items/mesa_afuera.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford"
   },
@@ -186,7 +186,7 @@
     "name": "Mesa",
     "price": 50000,
     "description": "+ 6 sillas de plastico",
-    "image": "/src/assets/items/mesa_plastico.jpeg",
+    "image": "../src/assets/items/mesa_plastico.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -195,7 +195,7 @@
     "name": "Platos (juego completo para 6)",
     "price": 30000,
     "description": "Plato playo, plato postre, plato hondo, tazas y platos te",
-    "image": "/src/assets/items/platos.jpeg",
+    "image": "../src/assets/items/platos.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños"
   },
@@ -204,7 +204,7 @@
     "name": "Estantes octogonales x 3",
     "price": 15000,
     "description": null,
-    "image": "/src/assets/items/estantes.jpeg",
+    "image": "../src/assets/items/estantes.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -213,7 +213,7 @@
     "name": "Mueble al lado compu",
     "price": 20000,
     "description": null,
-    "image": "/src/assets/items/mueble_computadora.jpeg",
+    "image": "../src/assets/items/mueble_computadora.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero"
   },
@@ -222,7 +222,7 @@
     "name": "Mueble comoda bar",
     "price": 40000,
     "description": null,
-    "image": "/src/assets/items/mueble_bar.jpeg",
+    "image": "../src/assets/items/mueble_bar.jpeg",
     "enabled": false,
     "owner": "Federico Magariños"
   },
@@ -232,7 +232,7 @@
     "name": "Mecedora",
     "price": 397500,
     "description": "El postigo",
-    "image": "/src/assets/items/mecedora.jpeg",
+    "image": "../src/assets/items/mecedora.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -241,7 +241,7 @@
     "name": "Reposeras x 2",
     "price": 30000,
     "description": "Easy",
-    "image": "/src/assets/items/reposeras.jpeg",
+    "image": "../src/assets/items/reposeras.jpeg",
     "enabled": false,
     "owner": "Ana Magariños"
   },
@@ -250,7 +250,7 @@
     "name": "Cajon huerta",
     "price": 20000,
     "description": null,
-    "image": "/src/assets/items/cajon_huerta.jpeg",
+    "image": "../src/assets/items/cajon_huerta.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero"
   },
@@ -259,7 +259,7 @@
     "name": "2 carros de golf",
     "price": 400000,
     "description": "Explorer V8 y Powerbuilt (ambos 4 ruedas)",
-    "image": "/src/assets/items/carro_golf.jpeg",
+    "image": "../src/assets/items/carro_golf.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -268,7 +268,7 @@
     "name": "Tabla plachar",
     "price": 30000,
     "description": null,
-    "image": "/src/assets/items/tabla_plachar.jpeg",
+    "image": "../src/assets/items/tabla_plachar.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños"
   },
@@ -277,7 +277,7 @@
     "name": "Plancha",
     "price": 40000,
     "description": "Nueva 80 mil",
-    "image": "/src/assets/items/plancha.jpeg",
+    "image": "../src/assets/items/plancha.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -286,7 +286,7 @@
     "name": "Heladera",
     "price": 600000,
     "description": "Samsung",
-    "image": "/src/assets/items/heladera.jpeg",
+    "image": "../src/assets/items/heladera.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -295,7 +295,7 @@
     "name": "Espejo redondo",
     "price": 60000,
     "description": "",
-    "image": "/src/assets/items/espejo.jpeg",
+    "image": "../src/assets/items/espejo.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños"
   },
@@ -304,7 +304,7 @@
     "name": "Parrilla electrica",
     "price": 60000,
     "description": "Black&Decker",
-    "image": "/src/assets/items/parrilla_electrica.jpeg",
+    "image": "../src/assets/items/parrilla_electrica.jpeg",
     "enabled": false,
     "owner": "Ana Magariños"
   },
@@ -313,7 +313,7 @@
     "name": "Disco",
     "price": 40000,
     "description": null,
-    "image": "/src/assets/items/disco.jpeg",
+    "image": "../src/assets/items/disco.jpeg",
     "enabled": false,
     "owner": "Maximo Huergo"
   },
@@ -322,7 +322,7 @@
     "name": "Pizarra",
     "price": 10000,
     "description": null,
-    "image": "/src/assets/items/pizarra.jpeg",
+    "image": "../src/assets/items/pizarra.jpeg",
     "enabled": false,
     "owner": "Ana Magariños"
   },
@@ -331,7 +331,7 @@
     "name": "Aspiradora",
     "price": 80000,
     "description": "Phillips",
-    "image": "/src/assets/items/aspiradora.jpeg",
+    "image": "../src/assets/items/aspiradora.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford"
   },
@@ -340,7 +340,7 @@
     "name": "Pava Electrica",
     "price": 35000,
     "description": "Moulinex mate",
-    "image": "/src/assets/items/pava_electrica.jpeg",
+    "image": "../src/assets/items/pava_electrica.jpeg",
     "enabled": true,
     "owner": null
   },
@@ -349,7 +349,7 @@
     "name": "Tostadora",
     "price": 15000,
     "description": "Daewoo",
-    "image": "/src/assets/items/tostadora.jpeg",
+    "image": "../src/assets/items/tostadora.jpeg",
     "enabled": false,
     "owner": "Ana Magariños"
   },
@@ -358,7 +358,7 @@
     "name": "Sandwichera",
     "price": 25000,
     "description": "Moulinex ultracompact",
-    "image": "/src/assets/items/sandwichera.jpeg",
+    "image": "../src/assets/items/sandwichera.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford"
   },
@@ -367,7 +367,7 @@
     "name": "Lavarropas",
     "price": 350000,
     "description": "Whirpool",
-    "image": "/src/assets/items/lavarropas.jpeg",
+    "image": "../src/assets/items/lavarropas.jpeg",
     "enabled": true,
     "owner": ""
   },
@@ -376,7 +376,7 @@
     "name": "Licuadora",
     "price": 80000,
     "description": "Moulinex",
-    "image": "/src/assets/items/licuadora.jpeg",
+    "image": "../src/assets/items/licuadora.jpeg",
     "enabled": true,
     "owner": ""
   },
@@ -385,7 +385,7 @@
     "name": "Tele living",
     "price": 200000,
     "description": "Tele 40 pulgadas",
-    "image": "/src/assets/items/tv_abajo.jpeg",
+    "image": "../src/assets/items/tv_abajo.jpeg",
     "enabled": true,
     "owner": ""
   }
