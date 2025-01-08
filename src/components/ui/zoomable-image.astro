@@ -1,0 +1,31 @@
+---
+import { Image } from 'astro:assets';
+import ZoomableImageDialog from './ZoomableImageDialog';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  src: string | ImageMetadata;
+  alt: string;
+}
+
+const { src, alt } = Astro.props;
+
+// If src is a string, we use it directly. If not, we use src.src
+const imageSrc = typeof src === 'string' ? src : src.src;
+---
+
+<ZoomableImageDialog
+  client:load
+  thumbnailSrc={imageSrc}
+  fullImageSrc={imageSrc}
+  alt={alt}
+>
+  <Image
+    src={imageSrc}
+    alt={alt}
+    class="w-full h-48 object-cover cursor-pointer"
+    width={400}
+    height={300}
+  />
+</ZoomableImageDialog>
+

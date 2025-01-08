@@ -1,20 +1,22 @@
 ---
 import { getCollection } from 'astro:content';
-import ZoomableImage from '@/components/ui/zoomable-image'
+import ZoomableImage from '@/components/ui/zoomable-image.astro'
 
 const items = await getCollection('items')
+
 ---
 
 <main class="container mx-auto px-4 py-8">
   <h1 class="text-4xl font-bold mb-8 text-center">Moving Sale - Household Items</h1>
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
     {items.map((item) => (
-      <div class="bg-white rounded-lg shadow-md overflow-hidden">
+      <div class="bg-white rounded-lg shadow-md overflow-hidden relative">
         <ZoomableImage
           src={item.data.image}
           alt={item.data.name}
-          client:load
+
         />
+
         <div class="p-4">
           <h2 class="text-xl font-semibold mb-2">{item.data.name}</h2>
           <p class="text-gray-600 mb-2">${(item.data.price / 1000).toFixed(3)}</p>

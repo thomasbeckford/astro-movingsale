@@ -4,35 +4,35 @@
     "name": "Sommier & colchon",
     "price": 400000,
     "description": "160x190 Marca Stearns & Foster",
-    "image": "/items/sommier_colchon.jpeg"
+    "image": "/src/assets/items/sommier_colchon.jpeg"
   },
   {
     "id": 2,
     "name": "Mesas de luz",
     "price": 250000,
     "description": "Woodmarket",
-    "image": "/items/mesa_de_luz.jpeg"
+    "image": "/src/assets/items/mesa_de_luz.jpeg"
   },
   {
     "id": 3,
     "name": "Comoda",
     "price": 500000,
     "description": "Woodmarket",
-    "image": "/items/comoda.jpeg"
+    "image": "/src/assets/items/comoda.jpeg"
   },
   {
     "id": 4,
     "name": "Respaldo cama",
     "price": 80000,
     "description": "Woodmarket 1.70",
-    "image": "/items/respaldo.jpeg"
+    "image": "/src/assets/items/respaldo.jpeg"
   },
   {
     "id": 5,
     "name": "Tele cuarto",
     "price": 625000,
     "description": "Samsung UN65AU7GCZB 65 pulgadas",
-    "image": "/items/tele_cuarto.jpeg"
+    "image": "/src/assets/items/tele_cuarto.jpeg"
   },
 
   {
@@ -40,7 +40,7 @@
     "name": "Cajonera zapatos",
     "price": 20000,
     "description": "",
-    "image": "/items/zapatero.jpeg"
+    "image": "/src/assets/items/zapatero.jpeg"
   },
 
   {
@@ -48,244 +48,244 @@
     "name": "Escritorio Luli",
     "price": 100000,
     "description": null,
-    "image": "/items/escritorio_luli.jpeg"
+    "image": "/src/assets/items/escritorio_luli.jpeg"
   },
   {
     "id": 11,
     "name": "Escritorio Tomi",
     "price": 150000,
     "description": "A2 Wood design",
-    "image": "/items/escritorio_tom.jpeg"
+    "image": "/src/assets/items/escritorio_tom.jpeg"
   },
   {
     "id": 12,
     "name": "Silla gamer",
     "price": 20000,
     "description": "DX Racer",
-    "image": "/items/silla_gamer.jpeg"
+    "image": "/src/assets/items/silla_gamer.jpeg"
   },
   {
     "id": 13,
     "name": "Monitores Dell x 2 + soporte",
     "price": 800000,
     "description": "Dell Ultrasharp U2415",
-    "image": "/items/monitor.jpeg"
+    "image": "/src/assets/items/monitor.jpeg"
   },
   {
     "id": 14,
     "name": "Cinta caminar",
     "price": 800000,
     "description": "",
-    "image": "/items/cinta.jpeg"
+    "image": "/src/assets/items/cinta.jpeg"
   },
   {
     "id": 15,
     "name": "Bici fija",
     "price": 250000,
     "description": "Randers",
-    "image": "/items/bicicleta.jpeg"
+    "image": "/src/assets/items/bicicleta.jpeg"
   },
   {
     "id": 16,
     "name": "Banco plano + pesas",
     "price": 100000,
     "description": null,
-    "image": "/items/banco_pesas.jpeg"
+    "image": "/src/assets/items/banco_pesas.jpeg"
   },
   {
     "id": 17,
     "name": "Sillon gris",
     "price": 460000,
     "description": "El postigo",
-    "image": "/items/sillon.jpeg"
+    "image": "/src/assets/items/sillon.jpeg"
   },
   {
     "id": 18,
     "name": "Materas x 2",
     "price": 246000,
     "description": "El postigo",
-    "image": "/items/materas.jpeg"
+    "image": "/src/assets/items/materas.jpeg"
   },
   {
     "id": 19,
     "name": "Mesa ratona",
     "price": 20000,
     "description": "Nebula",
-    "image": "/items/mesa_ratona.jpeg"
+    "image": "/src/assets/items/mesa_ratona.jpeg"
   },
   {
     "id": 20,
     "name": "Mesa comedor",
     "price": 350000,
     "description": "Cuadrada 1x1, el postigo",
-    "image": "/items/mesa_comedor.jpeg"
+    "image": "/src/assets/items/mesa_comedor.jpeg"
   },
   {
     "id": 21,
     "name": "4 sillas comedor",
     "price": 400000,
     "description": "El postigo, necesita retapizar",
-    "image": "/items/sillas.jpeg"
+    "image": "/src/assets/items/sillas.jpeg"
   },
   {
     "id": 22,
     "name": "Silla negra x2",
     "price": 40000,
     "description": null,
-    "image": "/items/silla.jpeg"
+    "image": "/src/assets/items/silla.jpeg"
   },
   {
     "id": 23,
     "name": "Mesa madera exterior con 3 sillas",
     "price": 80000,
     "description": null,
-    "image": "/items/mesa_afuera.jpeg"
+    "image": "/src/assets/items/mesa_afuera.jpeg"
   },
   {
     "id": 24,
     "name": "Mesa plastico con 6 sillas",
     "price": 50000,
     "description": null,
-    "image": "/items/mesa_plastico.jpeg"
+    "image": "/src/assets/items/mesa_plastico.jpeg"
   },
   {
     "id": 25,
     "name": "Platos (juego completo para 6)",
     "price": 30000,
     "description": "Plato playo, plato postre, plato hondo, tazas y platos te",
-    "image": "/items/platos.jpeg"
+    "image": "/src/assets/items/platos.jpeg"
   },
   {
     "id": 26,
     "name": "Estantes octogonales x 3",
     "price": 15000,
     "description": null,
-    "image": "/items/estantes.jpeg"
+    "image": "/src/assets/items/estantes.jpeg"
   },
   {
     "id": 27,
     "name": "Mueble al lado compu",
     "price": 20000,
     "description": null,
-    "image": "/items/mueble_computadora.jpeg"
+    "image": "/src/assets/items/mueble_computadora.jpeg"
   },
   {
     "id": 28,
     "name": "Mueble comoda bar",
     "price": 40000,
     "description": null,
-    "image": "/items/mueble_bar.jpeg"
+    "image": "/src/assets/items/mueble_bar.jpeg"
   },
   {
     "id": 29,
     "name": "Mueble TV living",
     "price": 20000,
     "description": null,
-    "image": "/items/mueble_living.jpeg"
+    "image": "/src/assets/items/mueble_living.jpeg"
   },
   {
     "id": 30,
     "name": "Mecedora",
     "price": 397500,
     "description": "El postigo",
-    "image": "/items/mecedora.jpeg"
+    "image": "/src/assets/items/mecedora.jpeg"
   },
   {
     "id": 31,
     "name": "Reposeras x 2",
     "price": 30000,
     "description": "Easy",
-    "image": "/items/reposeras.jpeg"
+    "image": "/src/assets/items/reposeras.jpeg"
   },
   {
     "id": 32,
     "name": "Cajon huerta",
     "price": 20000,
     "description": null,
-    "image": "/items/cajon_huerta.jpeg"
+    "image": "/src/assets/items/cajon_huerta.jpeg"
   },
   {
     "id": 33,
     "name": "2 carros de golf",
     "price": 400000,
     "description": "",
-    "image": "/items/carros_golf.jpeg"
+    "image": "/src/assets/items/carros_golf.jpeg"
   },
   {
     "id": 34,
     "name": "Tabla plachar",
     "price": 30000,
     "description": null,
-    "image": "/items/tabla_plachar.jpeg"
+    "image": "/src/assets/items/tabla_plachar.jpeg"
   },
   {
     "id": 35,
     "name": "Plancha",
     "price": 40000,
     "description": "Nueva 80 mil",
-    "image": "/items/plancha.jpeg"
+    "image": "/src/assets/items/plancha.jpeg"
   },
   {
     "id": 36,
     "name": "Heladera",
     "price": 600000,
     "description": "Samsung",
-    "image": "/items/heladera.jpeg"
+    "image": "/src/assets/items/heladera.jpeg"
   },
   {
     "id": 37,
     "name": "Espejo redondo",
     "price": 60000,
     "description": "",
-    "image": "/items/espejo.jpeg"
+    "image": "/src/assets/items/espejo.jpeg"
   },
   {
     "id": 38,
     "name": "Parrilla electrica",
     "price": 60000,
     "description": "Black&Decker",
-    "image": "/items/parrilla_electrica.jpeg"
+    "image": "/src/assets/items/parrilla_electrica.jpeg"
   },
   {
     "id": 39,
     "name": "Disco",
     "price": 40000,
     "description": null,
-    "image": "/items/disco.jpeg"
+    "image": "/src/assets/items/disco.jpeg"
   },
   {
     "id": 40,
     "name": "Pizarra",
     "price": 10000,
     "description": null,
-    "image": "/items/pizarra.jpeg"
+    "image": "/src/assets/items/pizarra.jpeg"
   },
   {
     "id": 41,
     "name": "Aspiradora",
     "price": 80000,
     "description": "Phillips",
-    "image": "/items/aspiradora.jpeg"
+    "image": "/src/assets/items/aspiradora.jpeg"
   },
   {
     "id": 42,
     "name": "Pava Electrica",
     "price": 35000,
     "description": "Moulinex mate",
-    "image": "/items/pava_electrica.jpeg"
+    "image": "/src/assets/items/pava_electrica.jpeg"
   },
   {
     "id": 43,
     "name": "Tostadora",
     "price": 15000,
     "description": "Daewoo",
-    "image": "/items/tostadora.jpeg"
+    "image": "/src/assets/items/tostadora.jpeg"
   },
   {
     "id": 44,
     "name": "Sandwichera",
     "price": 25000,
     "description": "Moulinex ultracompact",
-    "image": "/items/sandwichera.jpeg"
+    "image": "/src/assets/items/sandwichera.jpeg"
   }
 ]
