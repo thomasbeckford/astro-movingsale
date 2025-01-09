@@ -38,6 +38,9 @@ importers:
       lucide-react:
         specifier: ^0.469.0
         version: 0.469.0(react@19.0.0)
+      movingout:
+        specifier: 'link:'
+        version: 'link:'
       react:
         specifier: ^19.0.0
         version: 19.0.0

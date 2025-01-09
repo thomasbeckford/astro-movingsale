@@ -415,5 +415,32 @@
     "image": "/items/escritorio_caballetes.jpeg",
     "enabled": true,
     "owner": ""
+  },
+  {
+    "id": 51,
+    "name": "Llavero",
+    "price": 5000,
+    "description": "",
+    "image": "/items/llavero.jpeg",
+    "enabled": true,
+    "owner": ""
+  },
+  {
+    "id": 52,
+    "name": "Planta",
+    "price": 5000,
+    "description": "",
+    "image": "/items/planta.jpeg",
+    "enabled": true,
+    "owner": ""
+  },
+  {
+    "id": 53,
+    "name": "Apoya pies",
+    "price": 5000,
+    "description": "",
+    "image": "/items/apoya_pies.jpeg",
+    "enabled": true,
+    "owner": ""
   }
 ]

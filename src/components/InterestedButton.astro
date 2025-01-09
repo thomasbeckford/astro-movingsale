@@ -1,0 +1,18 @@
+---
+import { Button } from '@/components/ui/button'
+
+const { item } = Astro.props
+---
+
+<a
+  href=`https://api.whatsapp.com/send/?phone=5491134908167&text=Hola, me interesa este producto: ${item.data.name}`
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <Button
+    variant="secondary"
+    className="bg-red-400 rounded text-white my-4 shadow-lg"
+  >
+    Me interesa
+  </Button>
+</a>

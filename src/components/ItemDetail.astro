@@ -1,11 +1,11 @@
 ---
 import { Image } from 'astro:assets'
+import InterestedButton from './InterestedButton.astro'
 
 const { item } = Astro.props
 ---
 
 <div
-  transition:name={'fade'}
   class="flex flex-col items-center bg-gradient-to-b from-blue-50 to-white px-6 py-8 sm:px-8 sm:py-12 lg:px-16 lg:py-20"
 >
   <h1 class="text-3xl sm:text-4xl lg:text-5xl font-semibold text-red-400 mb-4">
@@ -25,6 +25,7 @@ const { item } = Astro.props
     class="object-contain rounded-xl"
     aria-placeholder={`Image ${item.data.name} `}
   />
+  <InterestedButton item={item} />
 
   <p class="text-center mt-6 text-2xl">
     <a href="/" class="text-blue-600 hover:underline font-medium"> Go back </a>
