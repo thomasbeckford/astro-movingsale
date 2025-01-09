@@ -397,5 +397,23 @@
     "image": "/items/veladores.jpeg",
     "enabled": true,
     "owner": ""
+  },
+  {
+    "id": 49,
+    "name": "Pala",
+    "price": 20000,
+    "description": "Estampada Gherardi Ancha",
+    "image": "/items/pala.jpeg",
+    "enabled": true,
+    "owner": ""
+  },
+  {
+    "id": 50,
+    "name": "Escritorio + Caballetes",
+    "price": 35000,
+    "description": "Muy buen estado",
+    "image": "/items/escritorio_caballetes.jpeg",
+    "enabled": true,
+    "owner": ""
   }
 ]
