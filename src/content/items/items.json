@@ -6,7 +6,8 @@
     "description": "160x190 Marca Stearns & Foster",
     "image": "/items/sommier_colchon.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "description": "Woodmarket",
     "image": "/items/mesa_de_luz.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "description": "Woodmarket",
     "image": "/items/comoda.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "description": "Woodmarket 1.70",
     "image": "/items/respaldo.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "description": "Samsung UN65AU7GCZB 65 pulgadas",
     "image": "/items/tele_cuarto.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
 
   {
@@ -52,7 +57,8 @@
     "description": "",
     "image": "/items/zapatero.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
 
   {
@@ -62,7 +68,8 @@
     "description": null,
     "image": "/items/escritorio_luli.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 11,
@@ -71,7 +78,8 @@
     "description": "A2 Wood design",
     "image": "/items/escritorio_tom.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 12,
@@ -79,8 +87,9 @@
     "price": 20000,
     "description": "DX Racer",
     "image": "/items/silla_gamer.jpeg",
-    "enabled": false,
-    "owner": "Gonzalo Gallastegui"
+    "enabled": true,
+    "owner": "",
+    "interested": ["Gonzalo Gallastegui"]
   },
   {
     "id": 13,
@@ -88,8 +97,9 @@
     "price": 800000,
     "description": "Dell Ultrasharp U2415",
     "image": "/items/monitor.jpeg",
-    "enabled": true,
-    "owner": null
+    "enabled": false,
+    "owner": null,
+    "interested": ["Gonzalo Gallastegui"]
   },
   {
     "id": 14,
@@ -98,7 +108,8 @@
     "description": "",
     "image": "/items/cinta.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 15,
@@ -107,7 +118,8 @@
     "description": "Randers",
     "image": "/items/bicicleta.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 16,
@@ -116,7 +128,8 @@
     "description": null,
     "image": "/items/banco_pesas.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 17,
@@ -125,7 +138,8 @@
     "description": "El postigo",
     "image": "/items/sillon.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": ["Gonzalo Gallastegui"]
   },
   {
     "id": 18,
@@ -134,7 +148,8 @@
     "description": "El postigo",
     "image": "/items/materas.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 19,
@@ -143,7 +158,8 @@
     "description": "Nebula",
     "image": "/items/mesa_ratona.jpeg",
     "enabled": false,
-    "owner": "Federico Magariños"
+    "owner": "Federico Magariños",
+    "interested": [""]
   },
   {
     "id": 20,
@@ -152,7 +168,8 @@
     "description": "Cuadrada 1x1, el postigo",
     "image": "/items/mesa_comedor.jpeg",
     "enabled": false,
-    "owner": "Federico Magariños"
+    "owner": "Federico Magariños",
+    "interested": [""]
   },
   {
     "id": 21,
@@ -161,7 +178,8 @@
     "description": "El postigo, necesita retapizar",
     "image": "/items/sillas.jpeg",
     "enabled": false,
-    "owner": "Federico Magariños"
+    "owner": "Federico Magariños",
+    "interested": [""]
   },
   {
     "id": 22,
@@ -170,7 +188,8 @@
     "description": null,
     "image": "/items/silla.jpeg",
     "enabled": false,
-    "owner": "Joaquin Aguero"
+    "owner": "Joaquin Aguero",
+    "interested": [""]
   },
   {
     "id": 23,
@@ -179,7 +198,8 @@
     "description": null,
     "image": "/items/mesa_afuera.jpeg",
     "enabled": false,
-    "owner": "Edmundo Beckford"
+    "owner": "Edmundo Beckford",
+    "interested": [""]
   },
   {
     "id": 24,
@@ -188,7 +208,8 @@
     "description": "+ 6 sillas de plastico",
     "image": "/items/mesa_plastico.jpeg",
     "enabled": false,
-    "owner": "Catalina Pla"
+    "owner": "Catalina Pla",
+    "interested": [""]
   },
   {
     "id": 25,
@@ -197,7 +218,8 @@
     "description": "Plato playo, plato postre, plato hondo, tazas y platos te",
     "image": "/items/platos.jpeg",
     "enabled": false,
-    "owner": "Josefina Magariños"
+    "owner": "Josefina Magariños",
+    "interested": [""]
   },
   {
     "id": 26,
@@ -206,7 +228,8 @@
     "description": null,
     "image": "/items/estantes.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 27,
@@ -214,8 +237,9 @@
     "price": 20000,
     "description": null,
     "image": "/items/mueble_computadora.jpeg",
-    "enabled": false,
-    "owner": "Joaquin Aguero"
+    "enabled": true,
+    "owner": "",
+    "interested": ["Joaquin Aguero"]
   },
   {
     "id": 28,
@@ -224,7 +248,8 @@
     "description": null,
     "image": "/items/mueble_bar.jpeg",
     "enabled": false,
-    "owner": "Federico Magariños"
+    "owner": "Federico Magariños",
+    "interested": [""]
   },
 
   {
@@ -234,7 +259,8 @@
     "description": "El postigo",
     "image": "/items/mecedora.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 31,
@@ -243,7 +269,8 @@
     "description": "Easy",
     "image": "/items/reposeras.jpeg",
     "enabled": false,
-    "owner": "Ana Magariños"
+    "owner": "Ana Magariños",
+    "interested": [""]
   },
   {
     "id": 32,
@@ -252,7 +279,8 @@
     "description": null,
     "image": "/items/cajon_huerta.jpeg",
     "enabled": false,
-    "owner": "Joaquin Aguero"
+    "owner": "Joaquin Aguero",
+    "interested": [""]
   },
   {
     "id": 33,
@@ -261,7 +289,8 @@
     "description": "Explorer V8 y Powerbuilt (ambos 4 ruedas)",
     "image": "/items/carro_golf.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": ["Ezequiel Lago, Ivan Jaugust"]
   },
   {
     "id": 34,
@@ -270,7 +299,8 @@
     "description": null,
     "image": "/items/tabla_plachar.jpeg",
     "enabled": false,
-    "owner": "Josefina Magariños"
+    "owner": "Josefina Magariños",
+    "interested": [""]
   },
   {
     "id": 35,
@@ -279,7 +309,8 @@
     "description": "Nueva 80 mil",
     "image": "/items/plancha.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 36,
@@ -288,7 +319,8 @@
     "description": "Samsung",
     "image": "/items/heladera.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 37,
@@ -297,7 +329,8 @@
     "description": "",
     "image": "/items/espejo.jpeg",
     "enabled": false,
-    "owner": "Josefina Magariños"
+    "owner": "Josefina Magariños",
+    "interested": [""]
   },
   {
     "id": 38,
@@ -306,7 +339,8 @@
     "description": "Black&Decker",
     "image": "/items/parrilla_electrica.jpeg",
     "enabled": false,
-    "owner": "Ana Magariños"
+    "owner": "Ana Magariños",
+    "interested": [""]
   },
   {
     "id": 39,
@@ -315,7 +349,8 @@
     "description": null,
     "image": "/items/disco.jpeg",
     "enabled": false,
-    "owner": "Maximo Huergo"
+    "owner": "Maximo Huergo",
+    "interested": [""]
   },
   {
     "id": 40,
@@ -324,7 +359,8 @@
     "description": null,
     "image": "/items/pizarra.jpeg",
     "enabled": false,
-    "owner": "Ana Magariños"
+    "owner": "Ana Magariños",
+    "interested": [""]
   },
   {
     "id": 41,
@@ -333,7 +369,8 @@
     "description": "Phillips",
     "image": "/items/aspiradora.jpeg",
     "enabled": false,
-    "owner": "Edmundo Beckford"
+    "owner": "Edmundo Beckford",
+    "interested": [""]
   },
   {
     "id": 42,
@@ -342,7 +379,8 @@
     "description": "Moulinex mate",
     "image": "/items/pava_electrica.jpeg",
     "enabled": true,
-    "owner": null
+    "owner": null,
+    "interested": [""]
   },
   {
     "id": 43,
@@ -351,7 +389,8 @@
     "description": "Daewoo",
     "image": "/items/tostadora.jpeg",
     "enabled": false,
-    "owner": "Ana Magariños"
+    "owner": "Ana Magariños",
+    "interested": [""]
   },
   {
     "id": 44,
@@ -360,7 +399,8 @@
     "description": "Moulinex ultracompact",
     "image": "/items/sandwichera.jpeg",
     "enabled": false,
-    "owner": "Edmundo Beckford"
+    "owner": "Edmundo Beckford",
+    "interested": [""]
   },
   {
     "id": 45,
@@ -369,7 +409,8 @@
     "description": "Whirpool",
     "image": "/items/lavarropas.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": ["Marcos Terranova"]
   },
   {
     "id": 46,
@@ -378,7 +419,8 @@
     "description": "Moulinex",
     "image": "/items/licuadora.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 47,
@@ -387,7 +429,8 @@
     "description": "Tele 40 pulgadas",
     "image": "/items/tv_abajo.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 48,
@@ -396,7 +439,8 @@
     "description": "",
     "image": "/items/veladores.jpeg",
     "enabled": false,
-    "owner": "Ana Magariños"
+    "owner": "Ana Magariños",
+    "interested": [""]
   },
   {
     "id": 49,
@@ -405,7 +449,8 @@
     "description": "Estampada Gherardi Ancha",
     "image": "/items/pala.jpeg",
     "enabled": false,
-    "owner": "Josefina Magariños"
+    "owner": "Josefina Magariños",
+    "interested": [""]
   },
   {
     "id": 50,
@@ -414,7 +459,8 @@
     "description": "Muy buen estado",
     "image": "/items/escritorio_caballetes.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 51,
@@ -423,7 +469,8 @@
     "description": "",
     "image": "/items/llavero.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 52,
@@ -432,7 +479,8 @@
     "description": "",
     "image": "/items/planta.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   },
   {
     "id": 53,
@@ -441,6 +489,7 @@
     "description": "",
     "image": "/items/apoya_pies.jpeg",
     "enabled": true,
-    "owner": ""
+    "owner": "",
+    "interested": [""]
   }
 ]
