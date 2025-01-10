@@ -10,6 +10,7 @@ const items = defineCollection({
     image: z.string(),
     enabled: z.boolean(),
     owner: z.string().nullable(),
+    interested: z.array(z.string()),
   }),
 })
 
