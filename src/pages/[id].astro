@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content'
-import ItemDetail from '@/components/ItemDetail.astro'
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import { Image } from 'astro:assets'
+import InterestedButton from '@/components/InterestedButton.astro'
 
 export async function getStaticPaths() {
   const items = await getCollection('items')
@@ -14,6 +16,42 @@ export async function getStaticPaths() {
 const { item } = Astro.props
 ---
 
-<div>
-  <ItemDetail item={item} />
-</div>
+<BaseLayout
+  title={`${item.data.name} - Moving Sale`}
+  description={`${item.data.description} - Moving Sale`}
+>
+  <div
+    class="flex flex-col items-center px-6 py-8 sm:px-8 sm:py-12 lg:px-16 lg:py-20"
+  >
+    <div class="flex flex-col items-center">
+      <h1
+        class="text-3xl sm:text-4xl lg:text-5xl font-semibold text-red-400 mb-4"
+      >
+        {item.data.name}
+      </h1>
+      <p
+        class="text-lg sm:text-xl lg:text-2xl text-gray-600 max-w-3xl text-center mb-8"
+      >
+        {item.data.description}
+      </p>
+
+      <div class="mb-4">
+        <InterestedButton item={item} />
+      </div>
+    </div>
+    <Image
+      src={item.data.image}
+      alt={`Image ${item.data.name} `}
+      width={720}
+      height={400}
+      class="object-contain rounded-xl"
+      aria-placeholder={`Image ${item.data.name} `}
+    />
+
+    <p class="text-center mt-6 text-2xl">
+      <a href="/" class="text-blue-600 hover:underline font-medium">
+        Go back
+      </a>
+    </p>
+  </div>
+</BaseLayout>

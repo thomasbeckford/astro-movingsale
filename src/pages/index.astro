@@ -1,9 +1,13 @@
 ---
-import Layout from '../layouts/Layout.astro'
+import { Button } from '@/components/ui/button'
+import BaseLayout from '@/layouts/BaseLayout.astro'
 import Items from '@/components/Items.astro'
 ---
 
-<Layout>
+<BaseLayout
+  title="Moving Sale - Household Items"
+  description="This is a website to sell household items"
+>
   <main class="container mx-auto px-4 py-8">
     <h1 class="text-4xl
     font-bold
@@ -14,4 +18,4 @@ import Items from '@/components/Items.astro'
 
     <Items />
   </main>
-</Layout>
+</BaseLayout>
