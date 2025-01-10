@@ -395,8 +395,8 @@
     "price": 15000,
     "description": "",
     "image": "/items/veladores.jpeg",
-    "enabled": true,
-    "owner": ""
+    "enabled": false,
+    "owner": "Ana Magariños"
   },
   {
     "id": 49,
@@ -404,8 +404,8 @@
     "price": 20000,
     "description": "Estampada Gherardi Ancha",
     "image": "/items/pala.jpeg",
-    "enabled": true,
-    "owner": ""
+    "enabled": false,
+    "owner": "Josefina Magariños"
   },
   {
     "id": 50,
