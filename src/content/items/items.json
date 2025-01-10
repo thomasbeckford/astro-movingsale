@@ -79,8 +79,8 @@
     "price": 20000,
     "description": "DX Racer",
     "image": "/items/silla_gamer.jpeg",
-    "enabled": true,
-    "owner": null
+    "enabled": false,
+    "owner": "Gonzalo Gallastegui"
   },
   {
     "id": 13,
@@ -106,8 +106,8 @@
     "price": 250000,
     "description": "Randers",
     "image": "/items/bicicleta.jpeg",
-    "enabled": false,
-    "owner": "Joaquin Aguero"
+    "enabled": true,
+    "owner": ""
   },
   {
     "id": 16,
@@ -115,8 +115,8 @@
     "price": 100000,
     "description": null,
     "image": "/items/banco_pesas.jpeg",
-    "enabled": false,
-    "owner": "Joaquin Aguero"
+    "enabled": true,
+    "owner": ""
   },
   {
     "id": 17,
@@ -187,8 +187,8 @@
     "price": 50000,
     "description": "+ 6 sillas de plastico",
     "image": "/items/mesa_plastico.jpeg",
-    "enabled": true,
-    "owner": null
+    "enabled": false,
+    "owner": "Catalina Pla"
   },
   {
     "id": 25,
