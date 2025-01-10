@@ -491,5 +491,35 @@
     "enabled": true,
     "owner": "",
     "interested": [""]
+  },
+  {
+    "id": 54,
+    "name": "Piano",
+    "price": 500000,
+    "description": "Yamaha p125 + sustain + mueble",
+    "image": "/items/piano.jpeg",
+    "enabled": true,
+    "owner": "",
+    "interested": [""]
+  },
+  {
+    "id": 55,
+    "name": "Teclados x2",
+    "price": 25000,
+    "description": "Satechi",
+    "image": "/items/teclados.jpeg",
+    "enabled": true,
+    "owner": "",
+    "interested": [""]
+  },
+  {
+    "id": 56,
+    "name": "Mouse",
+    "price": 25000,
+    "description": "Steel Series Rival 3 Wireless",
+    "image": "/items/mouse.jpeg",
+    "enabled": true,
+    "owner": "",
+    "interested": [""]
   }
 ]

@@ -10,7 +10,7 @@ const enabledItems = items.filter((item) => item.data.enabled)
   class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
 >
   {
-    enabledItems.map((item) => (
+    enabledItems.reverse().map((item) => (
       <a
         href={`/${item.id}`}
         class="group transition-all mb-4 block shadow-lg px-2 py-2 rounded-xl bg-white"
