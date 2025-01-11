@@ -1,6 +1,7 @@
 ---
 import { Button } from '@/components/ui/button'
 import { Image } from 'astro:assets'
+import Whatsapp from '@/assets/whatsapp.svg'
 
 const { item } = Astro.props
 ---
@@ -11,7 +12,7 @@ const { item } = Astro.props
   rel="noopener noreferrer"
 >
   <Button size="lg">
-    <Image src="/whatsapp.svg" alt="Whatsapp" width={20} height={20} />
-    <span class="font-[26px]"> Me interesa </span>
+    <Image src={Whatsapp} alt="Whatsapp" width={20} height={20} />
+    <span class="text-[18px]"> Me interesa </span>
   </Button>
 </a>

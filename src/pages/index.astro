@@ -1,21 +1,17 @@
 ---
-import { Button } from '@/components/ui/button'
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import Items from '@/components/Items.astro'
 ---
 
-<BaseLayout
-  title="Moving Sale - Household Items"
-  description="This is a website to sell household items"
->
+<BaseLayout title="Vendemos todo" description="Nos vamos y vendemos todo">
   <main class="container mx-auto px-4 py-8">
-    <h1 class="text-4xl
-    font-bold
-    mb-8
-    text-center">
-      Moving Sale - Household Items
-    </h1>
-
+    <div class="flex flex-col items-center gap-0 text-center py-4">
+      <h1 class="text-4xl font-bold">Vendemos todo</h1>
+      <h2>
+        Hace click en el producto para ver más detalles y si te interesa manda
+        un mensaje
+      </h2>
+    </div>
     <Items />
   </main>
 </BaseLayout>
