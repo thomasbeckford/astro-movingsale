@@ -1,6 +1,6 @@
 ---
-import { getCollection } from 'astro:content'
 import { Image } from 'astro:assets'
+import { getCollection } from 'astro:content'
 
 const items = await getCollection('items')
 const enabledItems = items.filter((item) => item.data.enabled)
@@ -18,15 +18,15 @@ const enabledItems = items.filter((item) => item.data.enabled)
         <Image
           src={item.data.image}
           alt={item.data.name}
-          format="avif"
-          width={720}
-          height={720}
-          quality="mid"
+          width={480}
+          height={270}
           class:list={[
             'rounded-lg transition-all',
             'group-hover:shadow-lg group-hover:opacity-90',
             'h-[300px] object-cover object-center  ',
           ]}
+          format="avif"
+          quality="mid"
         />
         <div class="mt-4 text-center text-neutral-700">
           <strong class="font-normal text-red-400">{item.data.name}</strong>
