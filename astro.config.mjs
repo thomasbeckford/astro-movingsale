@@ -4,7 +4,7 @@ import tailwind from '@astrojs/tailwind'
 import react from '@astrojs/react'
 
 export default defineConfig({
-  site: 'https://movingout.dev',
+  site: 'https://tomyluli.com',
   integrations: [
     tailwind({
       applyBaseStyles: false,
