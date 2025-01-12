@@ -45,8 +45,8 @@
     "price": 625000,
     "description": "Samsung UN65AU7GCZB 65 pulgadas",
     "image": "/src/assets/items/tele_cuarto.jpeg",
-    "enabled": true,
-    "owner": null,
+    "enabled": false,
+    "owner": "Martin Arocena",
     "interested": [""]
   },
 
@@ -300,9 +300,9 @@
     "price": 600000,
     "description": "Samsung",
     "image": "/src/assets/items/heladera.jpeg",
-    "enabled": true,
-    "owner": null,
-    "interested": [""]
+    "enabled": false,
+    "owner": "Chechu Vecina",
+    "interested": ["Ionita, Chino Rios"]
   },
   {
     "id": 37,
@@ -410,8 +410,8 @@
     "price": 200000,
     "description": "Tele 40 pulgadas",
     "image": "/src/assets/items/tv_abajo.jpeg",
-    "enabled": true,
-    "owner": "",
+    "enabled": false,
+    "owner": "Edmundo Beckford",
     "interested": [""]
   },
   {
