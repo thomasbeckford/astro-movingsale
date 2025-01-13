@@ -292,7 +292,7 @@
     "image": "/src/assets/items/plancha.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": []
+    "interested": ["Mery Hunter"]
   },
   {
     "id": 36,
@@ -301,8 +301,8 @@
     "description": "Samsung",
     "image": "/src/assets/items/heladera.jpeg",
     "enabled": false,
-    "owner": "Chechu Vecina",
-    "interested": ["Ionita, Chino Rios"]
+    "owner": "Federico Magariños",
+    "interested": ["Chechu Vecina, Ionita, Chino Rios"]
   },
   {
     "id": 37,
@@ -392,7 +392,7 @@
     "image": "/src/assets/items/lavarropas.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": ["Marcos Terranova"]
+    "interested": ["Florencia La prima ,Marcos Terranova"]
   },
   {
     "id": 46,
@@ -470,20 +470,11 @@
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/apoya_pies.jpeg",
-    "enabled": true,
-    "owner": "",
+    "enabled": false,
+    "owner": "Ivana Berkoff",
     "interested": []
   },
-  {
-    "id": 54,
-    "name": "Piano",
-    "price": 500000,
-    "description": "Yamaha p125 + sustain + mueble",
-    "image": "/src/assets/items/piano.jpeg",
-    "enabled": true,
-    "owner": "",
-    "interested": []
-  },
+
   {
     "id": 55,
     "name": "Teclados x2",
@@ -500,8 +491,8 @@
     "price": 25000,
     "description": "Steel Series Rival 3 Wireless",
     "image": "/src/assets/items/mouse.jpeg",
-    "enabled": true,
-    "owner": "",
+    "enabled": false,
+    "owner": "Joaquin Aguero",
     "interested": []
   }
 ]
