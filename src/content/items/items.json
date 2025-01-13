@@ -7,7 +7,7 @@
     "image": "/src/assets/items/sommier_colchon.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "image": "/src/assets/items/mesa_de_luz.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "image": "/src/assets/items/comoda.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": ["Lala"]
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "image": "/src/assets/items/respaldo.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "image": "/src/assets/items/tele_cuarto.jpeg",
     "enabled": false,
     "owner": "Martin Arocena",
-    "interested": [""]
+    "interested": []
   },
 
   {
@@ -58,7 +58,7 @@
     "image": "/src/assets/items/zapatero.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
 
   {
@@ -69,7 +69,7 @@
     "image": "/src/assets/items/escritorio_luli.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 11,
@@ -79,7 +79,7 @@
     "image": "/src/assets/items/escritorio_tom.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 12,
@@ -103,13 +103,13 @@
   },
   {
     "id": 14,
-    "name": "Cinta caminar",
+    "name": "Cinta correr/caminar",
     "price": 800000,
     "description": "",
     "image": "/src/assets/items/cinta.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 15,
@@ -119,7 +119,7 @@
     "image": "/src/assets/items/bicicleta.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 16,
@@ -129,7 +129,7 @@
     "image": "/src/assets/items/banco_pesas.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 17,
@@ -149,7 +149,7 @@
     "image": "/src/assets/items/materas.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 19,
@@ -159,7 +159,7 @@
     "image": "/src/assets/items/mesa_ratona.jpeg",
     "enabled": false,
     "owner": "Federico Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 20,
@@ -169,7 +169,7 @@
     "image": "/src/assets/items/mesa_comedor.jpeg",
     "enabled": false,
     "owner": "Federico Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 21,
@@ -179,7 +179,7 @@
     "image": "/src/assets/items/sillas.jpeg",
     "enabled": false,
     "owner": "Federico Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 22,
@@ -189,7 +189,7 @@
     "image": "/src/assets/items/silla.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero",
-    "interested": [""]
+    "interested": []
   },
 
   {
@@ -200,7 +200,7 @@
     "image": "/src/assets/items/mesa_plastico.jpeg",
     "enabled": false,
     "owner": "Catalina Pla",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 25,
@@ -210,7 +210,7 @@
     "image": "/src/assets/items/platos.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 26,
@@ -220,7 +220,7 @@
     "image": "/src/assets/items/estantes.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "image": "/src/assets/items/mueble_bar.jpeg",
     "enabled": false,
     "owner": "Federico Magariños",
-    "interested": [""]
+    "interested": []
   },
 
   {
@@ -251,7 +251,7 @@
     "image": "/src/assets/items/mecedora.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 31,
@@ -261,7 +261,7 @@
     "image": "/src/assets/items/reposeras.jpeg",
     "enabled": false,
     "owner": "Ana Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 32,
@@ -271,7 +271,7 @@
     "image": "/src/assets/items/cajon_huerta.jpeg",
     "enabled": false,
     "owner": "Joaquin Aguero",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 33,
@@ -292,7 +292,7 @@
     "image": "/src/assets/items/plancha.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 36,
@@ -312,7 +312,7 @@
     "image": "/src/assets/items/espejo.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 38,
@@ -322,7 +322,7 @@
     "image": "/src/assets/items/parrilla_electrica.jpeg",
     "enabled": false,
     "owner": "Ana Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 39,
@@ -332,7 +332,7 @@
     "image": "/src/assets/items/disco.jpeg",
     "enabled": false,
     "owner": "Maximo Huergo",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 40,
@@ -342,7 +342,7 @@
     "image": "/src/assets/items/pizarra.jpeg",
     "enabled": false,
     "owner": "Ana Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 41,
@@ -352,7 +352,7 @@
     "image": "/src/assets/items/aspiradora.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 42,
@@ -362,7 +362,7 @@
     "image": "/src/assets/items/pava_electrica.jpeg",
     "enabled": true,
     "owner": null,
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 43,
@@ -372,7 +372,7 @@
     "image": "/src/assets/items/tostadora.jpeg",
     "enabled": false,
     "owner": "Ana Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 44,
@@ -382,7 +382,7 @@
     "image": "/src/assets/items/sandwichera.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "image": "/src/assets/items/licuadora.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 47,
@@ -412,7 +412,7 @@
     "image": "/src/assets/items/tv_abajo.jpeg",
     "enabled": false,
     "owner": "Edmundo Beckford",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 48,
@@ -422,7 +422,7 @@
     "image": "/src/assets/items/veladores.jpeg",
     "enabled": false,
     "owner": "Ana Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 49,
@@ -432,7 +432,7 @@
     "image": "/src/assets/items/pala.jpeg",
     "enabled": false,
     "owner": "Josefina Magariños",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 50,
@@ -442,17 +442,17 @@
     "image": "/src/assets/items/escritorio_caballetes.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 51,
-    "name": "Llavero",
+    "name": "Cuelgallaves",
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/llavero.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 52,
@@ -462,7 +462,7 @@
     "image": "/src/assets/items/planta.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 53,
@@ -472,7 +472,7 @@
     "image": "/src/assets/items/apoya_pies.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 54,
@@ -482,7 +482,7 @@
     "image": "/src/assets/items/piano.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 55,
@@ -492,7 +492,7 @@
     "image": "/src/assets/items/teclados.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   },
   {
     "id": 56,
@@ -502,6 +502,6 @@
     "image": "/src/assets/items/mouse.jpeg",
     "enabled": true,
     "owner": "",
-    "interested": [""]
+    "interested": []
   }
 ]

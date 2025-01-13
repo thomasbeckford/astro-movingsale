@@ -9,7 +9,7 @@ interface Props {
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site)
-console.log(Astro.site)
+
 if (Astro.props.ogImage === undefined) {
   Astro.props.ogImage = new URL('og-image.png', canonicalURL)
 }

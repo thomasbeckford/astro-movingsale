@@ -10,7 +10,7 @@ const enabledItems = items.filter((item) => item.data.enabled)
   class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
 >
   {
-    enabledItems.reverse().map((item, index) => (
+    enabledItems.reverse().map((item) => (
       <a
         href={`/${item.id}`}
         class="group transition-all mb-4 block shadow-lg px-2 py-2 rounded-xl bg-white"
@@ -26,12 +26,23 @@ const enabledItems = items.filter((item) => item.data.enabled)
             'h-[300px] object-cover object-center  ',
           ]}
         />
-        <div class="mt-4 text-center text-neutral-700">
+
+        <div class="mt-4 text-center text-neutral-700 relative">
+          {item.data.interested.length > 0 && (
+            <div class="mt-2 text-sm text-yellow-500 font-semibold absolute top-0 right-0">
+              🔥
+            </div>
+          )}
           <strong class="font-normal text-red-400">{item.data.name}</strong>
           <p class="text-sm text-neutral-500">{item.data.description}</p>
           <p class="mt-2 text-sm font-bold text-neutral-800">
             ${(item.data.price / 1000).toFixed(3)}
           </p>
+
+          {/* Mostrar "Vendido" si el producto está vendido */}
+          {!item.data.enabled && (
+            <div class="mt-2 text-sm text-red-600 font-semibold">Vendido</div>
+          )}
         </div>
       </a>
     ))

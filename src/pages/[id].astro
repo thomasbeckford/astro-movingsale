@@ -3,6 +3,8 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '@/layouts/BaseLayout.astro'
 import { Image } from 'astro:assets'
 import InterestedButton from '@/components/InterestedButton.astro'
+import { Button } from '@/components/ui/button'
+import BackButton from '@/components/BackButton'
 
 export async function getStaticPaths() {
   const items = await getCollection('items')
@@ -53,9 +55,6 @@ const { item } = Astro.props
       class="object-contain rounded-xl"
       aria-placeholder={`Image ${item.data.name} `}
     />
-
-    <a href="/" class="text-blue-600 hover:underline font-medium">
-      Volver al inicio
-    </a>
+    <BackButton client:load />
   </div>
 </BaseLayout>
