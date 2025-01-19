@@ -19,16 +19,7 @@
     "owner": null,
     "interested": []
   },
-  {
-    "id": 3,
-    "name": "Comoda",
-    "price": 500000,
-    "description": "Woodmarket",
-    "image": "/src/assets/items/comoda.jpeg",
-    "enabled": true,
-    "owner": null,
-    "interested": ["Lala"]
-  },
+
   {
     "id": 4,
     "name": "Respaldo cama",
@@ -50,16 +41,7 @@
     "interested": []
   },
 
-  {
-    "id": 7,
-    "name": "Cajonera zapatos",
-    "price": 20000,
-    "description": "",
-    "image": "/src/assets/items/zapatero.jpeg",
-    "enabled": true,
-    "owner": null,
-    "interested": []
-  },
+
 
   {
     "id": 10,
@@ -284,16 +266,7 @@
     "interested": ["Ezequiel Lago, Ivan Jaugust"]
   },
 
-  {
-    "id": 35,
-    "name": "Plancha",
-    "price": 40000,
-    "description": "Nueva 80 mil",
-    "image": "/src/assets/items/plancha.jpeg",
-    "enabled": true,
-    "owner": null,
-    "interested": ["Mery Hunter"]
-  },
+
   {
     "id": 36,
     "name": "Heladera",
@@ -444,16 +417,7 @@
     "owner": "",
     "interested": []
   },
-  {
-    "id": 51,
-    "name": "Cuelgallaves",
-    "price": 5000,
-    "description": "",
-    "image": "/src/assets/items/llavero.jpeg",
-    "enabled": true,
-    "owner": "",
-    "interested": []
-  },
+
   {
     "id": 52,
     "name": "Planta",
