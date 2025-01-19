@@ -48,6 +48,9 @@ const { item } = Astro.props
       </div>
     </div>
     <Image
+      style={{
+        viewTransitionName: `image-transition-${item.id}`,
+      }}
       src={item.data.image}
       alt={`Image ${item.data.name} `}
       width={480}
