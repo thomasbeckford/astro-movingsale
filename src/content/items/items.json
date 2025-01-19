@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Sommier & colchon",
-    "price": 400000,
+    "price": 250000,
     "description": "160x190 Marca Stearns & Foster",
     "image": "/src/assets/items/sommier_colchon.jpeg",
     "enabled": true,
@@ -19,11 +19,20 @@
     "owner": null,
     "interested": []
   },
-
+  {
+    "id": 3,
+    "name": "Comoda",
+    "price": 500000,
+    "description": "Woodmarket",
+    "image": "/src/assets/items/comoda.jpeg",
+    "enabled": false,
+    "owner": null,
+    "interested": ["Lala"]
+  },
   {
     "id": 4,
     "name": "Respaldo cama",
-    "price": 80000,
+    "price": 50000,
     "description": "Woodmarket 1.70",
     "image": "/src/assets/items/respaldo.jpeg",
     "enabled": true,
@@ -41,12 +50,21 @@
     "interested": []
   },
 
-
+  {
+    "id": 7,
+    "name": "Cajonera zapatos",
+    "price": 20000,
+    "description": "",
+    "image": "/src/assets/items/zapatero.jpeg",
+    "enabled": false,
+    "owner": null,
+    "interested": ["Ivana Berkoff"]
+  },
 
   {
     "id": 10,
     "name": "Escritorio Luli",
-    "price": 100000,
+    "price": 70000,
     "description": null,
     "image": "/src/assets/items/escritorio_luli.jpeg",
     "enabled": true,
@@ -56,7 +74,7 @@
   {
     "id": 11,
     "name": "Escritorio Tomi",
-    "price": 150000,
+    "price": 100000,
     "description": "A2 Wood design",
     "image": "/src/assets/items/escritorio_tom.jpeg",
     "enabled": true,
@@ -86,7 +104,7 @@
   {
     "id": 14,
     "name": "Cinta correr/caminar",
-    "price": 800000,
+    "price": 500000,
     "description": "",
     "image": "/src/assets/items/cinta.jpeg",
     "enabled": true,
@@ -106,7 +124,7 @@
   {
     "id": 16,
     "name": "Banco plano + pesas",
-    "price": 100000,
+    "price": 80000,
     "description": null,
     "image": "/src/assets/items/banco_pesas.jpeg",
     "enabled": true,
@@ -116,7 +134,7 @@
   {
     "id": 17,
     "name": "Sillon gris",
-    "price": 460000,
+    "price": 280000,
     "description": "El postigo",
     "image": "/src/assets/items/sillon.jpeg",
     "enabled": true,
@@ -126,7 +144,7 @@
   {
     "id": 18,
     "name": "Materas x 2",
-    "price": 246000,
+    "price": 180000,
     "description": "El postigo",
     "image": "/src/assets/items/materas.jpeg",
     "enabled": true,
@@ -197,7 +215,7 @@
   {
     "id": 26,
     "name": "Estantes octogonales x 3",
-    "price": 15000,
+    "price": 10000,
     "description": null,
     "image": "/src/assets/items/estantes.jpeg",
     "enabled": true,
@@ -228,7 +246,7 @@
   {
     "id": 30,
     "name": "Mecedora",
-    "price": 397500,
+    "price": 200000,
     "description": "El postigo",
     "image": "/src/assets/items/mecedora.jpeg",
     "enabled": true,
@@ -261,16 +279,25 @@
     "price": 400000,
     "description": "Explorer V8 y Powerbuilt (ambos 4 ruedas)",
     "image": "/src/assets/items/carro_golf.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
     "interested": ["Ezequiel Lago, Ivan Jaugust"]
   },
 
-
+  {
+    "id": 35,
+    "name": "Plancha",
+    "price": 40000,
+    "description": "Nueva 80 mil",
+    "image": "/src/assets/items/plancha.jpeg",
+    "enabled": false,
+    "owner": null,
+    "interested": ["Mery Hunter"]
+  },
   {
     "id": 36,
     "name": "Heladera",
-    "price": 600000,
+    "price": 500000,
     "description": "Samsung",
     "image": "/src/assets/items/heladera.jpeg",
     "enabled": false,
@@ -330,7 +357,7 @@
   {
     "id": 42,
     "name": "Pava Electrica",
-    "price": 35000,
+    "price": 20000,
     "description": "Moulinex mate",
     "image": "/src/assets/items/pava_electrica.jpeg",
     "enabled": true,
@@ -360,7 +387,7 @@
   {
     "id": 45,
     "name": "Lavarropas",
-    "price": 350000,
+    "price": 200000,
     "description": "Whirpool",
     "image": "/src/assets/items/lavarropas.jpeg",
     "enabled": true,
@@ -370,7 +397,7 @@
   {
     "id": 46,
     "name": "Licuadora",
-    "price": 80000,
+    "price": 50000,
     "description": "Moulinex",
     "image": "/src/assets/items/licuadora.jpeg",
     "enabled": true,
@@ -380,7 +407,7 @@
   {
     "id": 47,
     "name": "Tele living",
-    "price": 200000,
+    "price": 100000,
     "description": "Tele 40 pulgadas",
     "image": "/src/assets/items/tv_abajo.jpeg",
     "enabled": false,
@@ -410,14 +437,23 @@
   {
     "id": 50,
     "name": "Escritorio + Caballetes",
-    "price": 35000,
+    "price": 30000,
     "description": "Muy buen estado",
     "image": "/src/assets/items/escritorio_caballetes.jpeg",
     "enabled": true,
     "owner": "",
     "interested": []
   },
-
+  {
+    "id": 51,
+    "name": "Cuelgallaves",
+    "price": 5000,
+    "description": "",
+    "image": "/src/assets/items/llavero.jpeg",
+    "enabled": true,
+    "owner": "",
+    "interested": []
+  },
   {
     "id": 52,
     "name": "Planta",
