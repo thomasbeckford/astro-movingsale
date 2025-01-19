@@ -7,13 +7,13 @@ const enabledItems = items.filter((item) => item.data.enabled)
 ---
 
 <div
-  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
+  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2"
 >
   {
     enabledItems.reverse().map((item) => (
       <a
         href={`/${item.id}`}
-        class="group transition-all mb-4 block shadow-lg px-2 py-2 rounded-xl bg-white"
+        class="group transition-all  md:block shadow-lg px-2 py-2 rounded-xl bg-white flex gap-4"
       >
         <Image
           src={item.data.image}
@@ -26,11 +26,13 @@ const enabledItems = items.filter((item) => item.data.enabled)
           class:list={[
             'rounded-lg transition-all',
             'group-hover:shadow-lg group-hover:opacity-90',
-            'h-[300px] object-cover object-center  ',
+            'md:h-[300px] md:w-full ',
+            'w-1/2 h-[150px] object-cover object-center  ',
+
           ]}
         />
 
-        <div class="mt-4 text-center text-neutral-700 relative">
+        <div class="md:mt-4 md:text-center text-neutral-700 relative flex flex-col  justify-center text-left">
           {item.data.interested.length > 0 && (
             <div class="mt-2 text-sm text-yellow-500 font-semibold absolute top-0 right-0">
               🔥
@@ -38,7 +40,7 @@ const enabledItems = items.filter((item) => item.data.enabled)
           )}
           <strong class="font-normal text-red-400">{item.data.name}</strong>
           <p class="text-sm text-neutral-500">{item.data.description}</p>
-          <p class="mt-2 text-sm font-bold text-neutral-800">
+          <p class="mt-2 text-sm font-bold text-neutral-800 ">
             ${(item.data.price / 1000).toFixed(3)}
           </p>
 
