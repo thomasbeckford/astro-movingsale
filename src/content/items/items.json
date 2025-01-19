@@ -97,7 +97,7 @@
     "price": 800000,
     "description": "Dell Ultrasharp U2415",
     "image": "/src/assets/items/monitor.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Gonzalo Gallastegui"]
   },
