@@ -87,9 +87,9 @@
     "price": 20000,
     "description": "DX Racer",
     "image": "/src/assets/items/silla_gamer.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": "",
-    "interested": ["Gonzalo Gallastegui"]
+    "interested": ["Gonzalo Gallastegui", "Vecino"]
   },
   {
     "id": 13,
@@ -218,9 +218,9 @@
     "price": 10000,
     "description": null,
     "image": "/src/assets/items/estantes.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
-    "interested": []
+    "interested": ["Ana Magariños"]
   },
   {
     "id": 27,
@@ -249,9 +249,9 @@
     "price": 200000,
     "description": "El postigo",
     "image": "/src/assets/items/mecedora.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
-    "interested": []
+    "interested": ["Ana Magariños"]
   },
   {
     "id": 31,
@@ -460,9 +460,9 @@
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/planta.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": "",
-    "interested": []
+    "interested": ["Ana Magariños"]
   },
   {
     "id": 53,
