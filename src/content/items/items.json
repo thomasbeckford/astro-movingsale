@@ -15,9 +15,9 @@
     "price": 250000,
     "description": "Woodmarket",
     "image": "/src/assets/items/mesa_de_luz.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
-    "interested": []
+    "interested": ["Ana Magariños"]
   },
   {
     "id": 3,
@@ -77,9 +77,9 @@
     "price": 100000,
     "description": "A2 Wood design",
     "image": "/src/assets/items/escritorio_tom.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
-    "interested": []
+    "interested": ["Ezequiel Lago"]
   },
   {
     "id": 12,
@@ -228,9 +228,9 @@
     "price": 20000,
     "description": null,
     "image": "/src/assets/items/mueble_computadora.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": "",
-    "interested": ["Joaquin Aguero"]
+    "interested": ["Ezequiel Lago"]
   },
   {
     "id": 28,
@@ -360,9 +360,9 @@
     "price": 20000,
     "description": "Moulinex mate",
     "image": "/src/assets/items/pava_electrica.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": null,
-    "interested": []
+    "interested": ["Ezequiel Lago"]
   },
   {
     "id": 43,
@@ -440,9 +440,9 @@
     "price": 30000,
     "description": "Muy buen estado",
     "image": "/src/assets/items/escritorio_caballetes.jpeg",
-    "enabled": true,
+    "enabled": false,
     "owner": "",
-    "interested": []
+    "interested": ["Ezequiel Lago"]
   },
   {
     "id": 51,
