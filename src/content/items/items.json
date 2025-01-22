@@ -390,9 +390,9 @@
     "price": 200000,
     "description": "Whirpool",
     "image": "/src/assets/items/lavarropas.jpeg",
-    "enabled": true,
-    "owner": "",
-    "interested": ["Florencia La prima ,Marcos Terranova"]
+    "enabled": false,
+    "owner": "Pedrito Marco",
+    "interested": ["Fausto X","Florencia La prima ,Marcos Terranova"]
   },
   {
     "id": 46,
@@ -400,9 +400,9 @@
     "price": 50000,
     "description": "Moulinex",
     "image": "/src/assets/items/licuadora.jpeg",
-    "enabled": true,
-    "owner": "",
-    "interested": []
+    "enabled": false,
+    "owner": "Pedrito Marco",
+    "interested": ["Pedrito Marco"]
   },
   {
     "id": 47,
