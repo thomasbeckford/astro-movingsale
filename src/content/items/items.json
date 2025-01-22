@@ -137,8 +137,8 @@
     "price": 280000,
     "description": "El postigo",
     "image": "/src/assets/items/sillon.jpeg",
-    "enabled": true,
-    "owner": null,
+    "enabled": false,
+    "owner": "Pedrito Marco",
     "interested": ["Gonzalo Gallastegui"]
   },
   {
@@ -450,8 +450,8 @@
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/llavero.jpeg",
-    "enabled": true,
-    "owner": "",
+    "enabled": false,
+    "owner": "Pedrito Marco",
     "interested": []
   },
   {
