@@ -5,8 +5,8 @@
     "price": 250000,
     "description": "160x190 Marca Stearns & Foster",
     "image": "/src/assets/items/sommier_colchon.jpeg",
-    "enabled": true,
-    "owner": null,
+    "enabled": false,
+    "owner": "Santi Perez Lemme",
     "interested": []
   },
   {
@@ -35,8 +35,8 @@
     "price": 50000,
     "description": "Woodmarket 1.70",
     "image": "/src/assets/items/respaldo.jpeg",
-    "enabled": true,
-    "owner": null,
+    "enabled": false,
+    "owner": "Edmundo Beckford",
     "interested": []
   },
   {
