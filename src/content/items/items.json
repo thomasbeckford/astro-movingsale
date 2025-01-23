@@ -117,8 +117,8 @@
     "price": 250000,
     "description": "Randers",
     "image": "/src/assets/items/bicicleta.jpeg",
-    "enabled": true,
-    "owner": "",
+    "enabled": false,
+    "owner": "Ivana Berkoff",
     "interested": []
   },
   {
