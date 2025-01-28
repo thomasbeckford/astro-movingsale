@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Comoda",
-    "price": 500000,
+    "price": 0,
     "description": "Woodmarket",
     "image": "/src/assets/items/comoda.jpeg",
     "enabled": false,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Respaldo cama",
-    "price": 50000,
+    "price": 30000,
     "description": "Woodmarket 1.70",
     "image": "/src/assets/items/respaldo.jpeg",
     "enabled": false,
@@ -49,7 +49,6 @@
     "owner": "Martin Arocena",
     "interested": []
   },
-
   {
     "id": 7,
     "name": "Cajonera zapatos",
@@ -60,7 +59,6 @@
     "owner": null,
     "interested": ["Ivana Berkoff"]
   },
-
   {
     "id": 10,
     "name": "Escritorio Luli",
@@ -191,7 +189,6 @@
     "owner": "Joaquin Aguero",
     "interested": []
   },
-
   {
     "id": 24,
     "name": "Mesa",
@@ -456,16 +453,6 @@
   },
   {
     "id": 52,
-    "name": "Planta",
-    "price": 5000,
-    "description": "",
-    "image": "/src/assets/items/planta.jpeg",
-    "enabled": false,
-    "owner": "",
-    "interested": ["Ana Magariños"]
-  },
-  {
-    "id": 53,
     "name": "Apoya pies",
     "price": 5000,
     "description": "",
@@ -474,9 +461,8 @@
     "owner": "Ivana Berkoff",
     "interested": []
   },
-
   {
-    "id": 55,
+    "id": 53,
     "name": "Teclados x2",
     "price": 25000,
     "description": "Satechi",
@@ -486,7 +472,7 @@
     "interested": []
   },
   {
-    "id": 56,
+    "id": 54,
     "name": "Mouse",
     "price": 25000,
     "description": "Steel Series Rival 3 Wireless",
