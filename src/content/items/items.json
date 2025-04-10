@@ -5,7 +5,7 @@
     "price": 250000,
     "description": "160x190 Marca Stearns & Foster",
     "image": "/src/assets/items/sommier_colchon.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Santi Perez Lemme",
     "interested": []
   },
@@ -15,7 +15,7 @@
     "price": 250000,
     "description": "Woodmarket",
     "image": "/src/assets/items/mesa_de_luz.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ana Magariños"]
   },
@@ -25,7 +25,7 @@
     "price": 0,
     "description": "Woodmarket",
     "image": "/src/assets/items/comoda.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Lala"]
   },
@@ -35,7 +35,7 @@
     "price": 30000,
     "description": "Woodmarket 1.70",
     "image": "/src/assets/items/respaldo.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Edmundo Beckford",
     "interested": []
   },
@@ -45,7 +45,7 @@
     "price": 625000,
     "description": "Samsung UN65AU7GCZB 65 pulgadas",
     "image": "/src/assets/items/tele_cuarto.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Martin Arocena",
     "interested": []
   },
@@ -55,7 +55,7 @@
     "price": 20000,
     "description": "",
     "image": "/src/assets/items/zapatero.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ivana Berkoff"]
   },
@@ -65,7 +65,7 @@
     "price": 70000,
     "description": null,
     "image": "/src/assets/items/escritorio_luli.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": []
   },
@@ -75,7 +75,7 @@
     "price": 100000,
     "description": "A2 Wood design",
     "image": "/src/assets/items/escritorio_tom.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ezequiel Lago"]
   },
@@ -85,7 +85,7 @@
     "price": 20000,
     "description": "DX Racer",
     "image": "/src/assets/items/silla_gamer.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "",
     "interested": ["Gonzalo Gallastegui", "Vecino"]
   },
@@ -115,7 +115,7 @@
     "price": 250000,
     "description": "Randers",
     "image": "/src/assets/items/bicicleta.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ivana Berkoff",
     "interested": []
   },
@@ -125,7 +125,7 @@
     "price": 80000,
     "description": null,
     "image": "/src/assets/items/banco_pesas.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "",
     "interested": []
   },
@@ -135,7 +135,7 @@
     "price": 280000,
     "description": "El postigo",
     "image": "/src/assets/items/sillon.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Pedrito Marco",
     "interested": ["Gonzalo Gallastegui"]
   },
@@ -155,7 +155,7 @@
     "price": 20000,
     "description": "Nebula",
     "image": "/src/assets/items/mesa_ratona.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Federico Magariños",
     "interested": []
   },
@@ -165,7 +165,7 @@
     "price": 350000,
     "description": "Cuadrada 1x1, el postigo",
     "image": "/src/assets/items/mesa_comedor.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Federico Magariños",
     "interested": []
   },
@@ -175,7 +175,7 @@
     "price": 400000,
     "description": "El postigo, necesita retapizar",
     "image": "/src/assets/items/sillas.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Federico Magariños",
     "interested": []
   },
@@ -185,7 +185,7 @@
     "price": 40000,
     "description": null,
     "image": "/src/assets/items/silla.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Joaquin Aguero",
     "interested": []
   },
@@ -195,7 +195,7 @@
     "price": 50000,
     "description": "+ 6 sillas de plastico",
     "image": "/src/assets/items/mesa_plastico.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Catalina Pla",
     "interested": []
   },
@@ -205,7 +205,7 @@
     "price": 30000,
     "description": "Plato playo, plato postre, plato hondo, tazas y platos te",
     "image": "/src/assets/items/platos.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Josefina Magariños",
     "interested": []
   },
@@ -215,7 +215,7 @@
     "price": 10000,
     "description": null,
     "image": "/src/assets/items/estantes.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ana Magariños"]
   },
@@ -225,7 +225,7 @@
     "price": 20000,
     "description": null,
     "image": "/src/assets/items/mueble_computadora.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "",
     "interested": ["Ezequiel Lago"]
   },
@@ -235,7 +235,7 @@
     "price": 40000,
     "description": null,
     "image": "/src/assets/items/mueble_bar.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Federico Magariños",
     "interested": []
   },
@@ -246,7 +246,7 @@
     "price": 200000,
     "description": "El postigo",
     "image": "/src/assets/items/mecedora.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ana Magariños"]
   },
@@ -256,7 +256,7 @@
     "price": 30000,
     "description": "Easy",
     "image": "/src/assets/items/reposeras.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ana Magariños",
     "interested": []
   },
@@ -266,7 +266,7 @@
     "price": 20000,
     "description": null,
     "image": "/src/assets/items/cajon_huerta.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Joaquin Aguero",
     "interested": []
   },
@@ -276,7 +276,7 @@
     "price": 400000,
     "description": "Explorer V8 y Powerbuilt (ambos 4 ruedas)",
     "image": "/src/assets/items/carro_golf.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ezequiel Lago, Ivan Jaugust"]
   },
@@ -287,7 +287,7 @@
     "price": 40000,
     "description": "Nueva 80 mil",
     "image": "/src/assets/items/plancha.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Mery Hunter"]
   },
@@ -297,7 +297,7 @@
     "price": 500000,
     "description": "Samsung",
     "image": "/src/assets/items/heladera.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Federico Magariños",
     "interested": ["Chechu Vecina, Ionita, Chino Rios"]
   },
@@ -307,7 +307,7 @@
     "price": 60000,
     "description": "",
     "image": "/src/assets/items/espejo.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Josefina Magariños",
     "interested": []
   },
@@ -317,7 +317,7 @@
     "price": 60000,
     "description": "Black&Decker",
     "image": "/src/assets/items/parrilla_electrica.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ana Magariños",
     "interested": []
   },
@@ -327,7 +327,7 @@
     "price": 40000,
     "description": null,
     "image": "/src/assets/items/disco.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Maximo Huergo",
     "interested": []
   },
@@ -337,7 +337,7 @@
     "price": 10000,
     "description": null,
     "image": "/src/assets/items/pizarra.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ana Magariños",
     "interested": []
   },
@@ -347,7 +347,7 @@
     "price": 80000,
     "description": "Phillips",
     "image": "/src/assets/items/aspiradora.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Edmundo Beckford",
     "interested": []
   },
@@ -357,7 +357,7 @@
     "price": 20000,
     "description": "Moulinex mate",
     "image": "/src/assets/items/pava_electrica.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": null,
     "interested": ["Ezequiel Lago"]
   },
@@ -367,7 +367,7 @@
     "price": 15000,
     "description": "Daewoo",
     "image": "/src/assets/items/tostadora.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ana Magariños",
     "interested": []
   },
@@ -377,7 +377,7 @@
     "price": 25000,
     "description": "Moulinex ultracompact",
     "image": "/src/assets/items/sandwichera.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Edmundo Beckford",
     "interested": []
   },
@@ -387,7 +387,7 @@
     "price": 200000,
     "description": "Whirpool",
     "image": "/src/assets/items/lavarropas.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Pedrito Marco",
     "interested": ["Fausto X","Florencia La prima ,Marcos Terranova"]
   },
@@ -397,7 +397,7 @@
     "price": 50000,
     "description": "Moulinex",
     "image": "/src/assets/items/licuadora.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Pedrito Marco",
     "interested": ["Pedrito Marco"]
   },
@@ -407,7 +407,7 @@
     "price": 100000,
     "description": "Tele 40 pulgadas",
     "image": "/src/assets/items/tv_abajo.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Edmundo Beckford",
     "interested": []
   },
@@ -417,7 +417,7 @@
     "price": 15000,
     "description": "",
     "image": "/src/assets/items/veladores.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ana Magariños",
     "interested": []
   },
@@ -427,7 +427,7 @@
     "price": 20000,
     "description": "Estampada Gherardi Ancha",
     "image": "/src/assets/items/pala.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Josefina Magariños",
     "interested": []
   },
@@ -437,7 +437,7 @@
     "price": 30000,
     "description": "Muy buen estado",
     "image": "/src/assets/items/escritorio_caballetes.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "",
     "interested": ["Ezequiel Lago"]
   },
@@ -447,7 +447,7 @@
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/llavero.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Pedrito Marco",
     "interested": []
   },
@@ -457,7 +457,7 @@
     "price": 5000,
     "description": "",
     "image": "/src/assets/items/apoya_pies.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Ivana Berkoff",
     "interested": []
   },
@@ -467,7 +467,7 @@
     "price": 25000,
     "description": "Satechi",
     "image": "/src/assets/items/teclados.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "",
     "interested": []
   },
@@ -477,7 +477,7 @@
     "price": 25000,
     "description": "Steel Series Rival 3 Wireless",
     "image": "/src/assets/items/mouse.jpeg",
-    "enabled": false,
+    "enabled": true,
     "owner": "Joaquin Aguero",
     "interested": []
   }
